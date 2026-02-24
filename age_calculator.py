@@ -15,6 +15,6 @@ while True:
     if age < 18:
         print("So you are still a kid.")
     elif age == 18:
-        print("So you turned in to an adult now \n Now taste the responsibility your life throws at you.") 
+        print("So you turned in to an adult now.") 
     elif age > 18:
-        print("How is the taste of the responsibility?")      
+        print("How it feels being a adult.")      
